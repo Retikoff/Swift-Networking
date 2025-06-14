@@ -1,10 +1,3 @@
-//
-//  ApiService.swift
-//  Networking2
-//
-//  Created by Student on 24.05.25.
-//
-
 import Foundation
 import Alamofire
 import Combine
