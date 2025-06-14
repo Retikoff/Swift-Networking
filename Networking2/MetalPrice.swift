@@ -1,10 +1,3 @@
-//
-//  MetalPrice.swift
-//  Networking2
-//
-//  Created by Student on 24.05.25.
-//
-
 import Foundation
 
 struct MetalPrice: Codable, Hashable{
