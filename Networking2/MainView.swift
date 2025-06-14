@@ -1,10 +1,3 @@
-//
-//  MainView.swift
-//  Networking2
-//
-//  Created by Student on 24.05.25.
-//
-
 import SwiftUI
 
 struct MainView: View {
